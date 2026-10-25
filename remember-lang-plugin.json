@@ -1,0 +1,26 @@
+{
+    "id": "remember-lang-plugin",
+    "name": "Persistent Languages",
+    "version": "0.2.2",
+    "manifestURI": "",
+    "language": "typescript",
+    "type": "plugin",
+    "description": "Stores and reapplies the audio and subtitle language settings for each anime.",
+    "author": "Zeri",
+    "icon": "",
+    "website": "",
+    "readme": "",
+    "notes": "",
+    "lang": "multi",
+    "payloadURI": "D:/Users/User/Documents/SeanimePlugin1/code.ts",
+    "plugin": {
+        "version": "1",
+        "permissions": {
+            "scopes": [
+                "playback",
+                "storage"
+            ]
+        }
+    },
+    "isDevelopment": false
+}

@@ -25,7 +25,7 @@ function init() {
     $ui.register((ctx) => {
 
         // ---- Config ---------------------------------------------------------
-        const DEBUG = false;           // set to false once you're happy with it
+        const DEBUG = false;          
         const APPLY_DELAY_MS = 1200;  // wait for the player to settle before applying
         const IGNORE_MS = 3000;       // ignore the echo events caused by our own apply
         const POLL_MS = 3000;         // how often we ask the player for its current tracks

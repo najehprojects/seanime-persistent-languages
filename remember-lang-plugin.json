@@ -16,10 +16,7 @@
     "plugin": {
         "version": "1",
         "permissions": {
-            "scopes": [
-                "playback",
-                "storage"
-            ]
+            "scopes": ["playback", "storage"]
         }
     }
 }

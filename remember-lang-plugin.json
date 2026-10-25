@@ -1,18 +1,18 @@
 {
     "id": "remember-lang-plugin",
     "name": "Persistent Languages",
-    "version": "0.2.2",
-    "manifestURI": "",
+    "version": "1.0.0",
+    "manifestURI": "https://github.com/najehprojects/seanime-persistent-languages/edit/main/remember-lang-plugin.json",
     "language": "typescript",
     "type": "plugin",
-    "description": "Stores and reapplies the audio and subtitle language settings for each anime.",
+    "description": "Remembers and re-applies the audio and subtitle track you chose for each anime.",
     "author": "Zeri",
     "icon": "",
-    "website": "",
+    "website": "https://github.com/najehprojects",
     "readme": "",
     "notes": "",
     "lang": "multi",
-    "payloadURI": "D:/Users/User/Documents/SeanimePlugin1/code.ts",
+    "payloadURI": "https://github.com/najehprojects/seanime-persistent-languages/blob/main/remember-lang-plugin.ts",
     "plugin": {
         "version": "1",
         "permissions": {
@@ -22,5 +22,4 @@
             ]
         }
     },
-    "isDevelopment": false
 }
